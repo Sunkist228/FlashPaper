@@ -27,4 +27,3 @@ services:
       PRUNE_ENABLED: "true"
       PRUNE_MIN_DAYS: 365
       PRUNE_MAX_DAYS: 730
-      
